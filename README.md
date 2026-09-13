@@ -1,25 +1,9 @@
 ﻿# Sahay AI
 
-## Team Information
-- **Team ID:** 39
-- **Team Name:** Sahay AI
-- **Team Members:**
-  - Ansil Bayan
-- **Project Name:** Sahay AI
-
----
-
-## Project Documentation
 
 ### Project Name
 **Sahay AI** — Aadhaar-Powered Citizen Welfare & Grievance Facilitator
 
-### Team
-- **Team ID:** 39
-- **Team Name:** Sahay AI
-- **Team Member:** Ansil Bayan
-
----
 
 ### Problem Statement
 Over 300 million vulnerable citizens in India are entitled to government welfare schemes and social security pensions, yet billions of rupees in welfare funds lapse annually due to bureaucratic friction, complex qualification rules, fragmented portals, and the lack of accessible grievance escalation channels.
@@ -172,3 +156,9 @@ python scratch/test_aadhaar_parsing_flow.py
 3. **Testing Grievance vs. Scheme Discovery:**
    - In Step 2, select **"Discover & Apply for Government Welfare Schemes"** to review ranked schemes and pre-filled Akshaya application forms.
    - Select **"File an Official Grievance Petition"** to experience the dedicated grievance route with official redressal procedures and statutory petition generation.
+
+### Demo Video
+https://jam.dev/c/6ff26f65-21de-4d46-a5df-363244b3b822
+
+### Demo
+https://gsgdtcfdwapxazvkwscnw2.streamlit.app/
